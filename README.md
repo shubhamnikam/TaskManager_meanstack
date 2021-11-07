@@ -1,6 +1,7 @@
 # TaskManager_meanstack
  Simple TaskManager application using mean stack
 
+![Alt Text](https://i.imgur.com/fxwG9Ilh.png)
 ## Setup project
 - Download this project
 - Replace mongodb connection string with your connection string with db name (filename: mongoose.js)
@@ -16,5 +17,7 @@
     - run --> npm install
     - run --> ng serve
         - open --> http://localhost:4200/
+
+
 
 
